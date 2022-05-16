@@ -17,17 +17,17 @@
         8. practice ajax and fetch with jsonplaceholder [REST API providers]
         
    5. Importantance of Flowcharts (must for freshers) and manual iterations. [start your program with it for complex logic]
-    ### 7. typescript (now a days most frameworks comes with it. so, must for frontend developer)
+### 6. typescript (now a days most frameworks comes with it. so, must for frontend developer)
                let,const, 
                getter, setter, 
                OOPs class, inheritance, intefaces, abstract, generics.
                
-### 8. debugging 
+### 7. debugging 
         learn chrome devtool [https://www.youtube.com/watch?v=aeCxJzriXWo] (it will help you to fix when you stucked in something)
-   9. learn basics devops knowledge like source code management with GIT, deployment with git up pages or heroku and deploy your project
-   10. Start with any framework like ReactJs, VueJs, Angular. (velocity of learning will be same if you completed all above, if you dont know TS then crate-react-app)
+   8. learn basics devops knowledge like source code management with GIT, deployment with git up pages or heroku and deploy your project
+   9. Start with any framework like ReactJs, VueJs, Angular. (velocity of learning will be same if you completed all above, if you dont know TS then crate-react-app)
    
-   ### 11. Tips &tricks. 
+   ### 10. Tips &tricks. 
          1. coding standard (write a code to understand for everyone and international standards) [PLAN FIRST BEFORE YOU START]
             1. Solid pattern, 
             2. clean code,
@@ -37,7 +37,7 @@
   
   ### Stll want to learn more
    
-   12. SEO
-   13. UX tool Figma, XD 
-   14. Start MEAN or MERN Stack         
+   11. SEO
+   12. UX tool Figma, XD 
+   13. Start MEAN or MERN Stack         
             
